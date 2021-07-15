@@ -133,6 +133,14 @@ function zephyr.load_syntax()
     Debug = {fg=zephyr.orange};
     debugBreakpoint = {fg=zephyr.bg,bg=zephyr.red};
 
+    -- mail
+    MailQuoted1 = {fg=zephyr.green};
+    MailQuoted2 = {fg=zephyr.yellow};
+    MailQuoted3 = {fg=zephyr.blue};
+    MailQuoted4 = {fg=zephyr.orange};
+    MailQuoted5 = {fg=zephyr.violet};
+    MailQuoted6 = {fg=zephyr.red};
+
     Boolean = {fg=zephyr.orange};
     Number = {fg=zephyr.brown};
     Float = {fg=zephyr.brown};
